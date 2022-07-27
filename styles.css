@@ -1,1 +1,24 @@
 /* your code */
+table {
+    border: 1px solid grey;
+    border-radius: 7px;
+    position: relative;
+    margin: 4vh;
+}
+
+thead {
+    background-color: aquamarine;
+    color: rgb(176, 7, 7);
+}
+
+#r1,
+#r3 {
+    background-color: #fff;
+    text-align: center;
+}
+
+#r2,
+#r4 {
+    background-color: antiquewhite;
+    text-align: center;
+}
